@@ -7,8 +7,6 @@
     <bytecodeTargetLevel>
       <module name="aspectj-adventure_main" target="1.8" />
       <module name="aspectj-adventure_test" target="1.8" />
-      <module name="jaspect-adventure_main" target="1.8" />
-      <module name="jaspect-adventure_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
