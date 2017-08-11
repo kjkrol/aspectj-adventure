@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspectj-adventure.iml" filepath="$PROJECT_DIR$/.idea/modules/aspectj-adventure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspectj-adventure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aspectj-adventure_main.iml" group="aspectj-adventure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspectj-adventure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aspectj-adventure_test.iml" group="aspectj-adventure" />
+    </modules>
+  </component>
+</project>
